@@ -1,4 +1,6 @@
 #Anna Dubavets
+
+![My photo] (/photo/CV Photo.jpg)
 =========================================================================
 ###Contacts:
 * (e-mail:) [DubavetsAnnaNikolaevna@gmail.com]
