@@ -4,9 +4,9 @@
 ***************************************************************************
 
 ### Contacts:
-* (e-mail:)[DubavetsAnnaNikolaevna@gmail.com]
-* (Telegram:)[https://t.me/ShineUniquely]
-* (LinkedIn:)[https://linkedin.com/in/анна-дубовец-0b8aa5228]
+* [e-mail:](DubavetsAnnaNikolaevna@gmail.com)
+* [Telegram:](https://t.me/ShineUniquely)
+* [LinkedIn:](https://linkedin.com/in/анна-дубовец-0b8aa5228)
 
 ***************************************************************************
 
@@ -46,7 +46,7 @@ function updateLight(current, green, yellow, red) {
 
 ### Experience:
 
-(My CV)[https://github.com/AnnaD777/rsschool-cv.git]
+[My CV](https://github.com/AnnaD777/rsschool-cv.git)
 
 ***************************************************************************
 
